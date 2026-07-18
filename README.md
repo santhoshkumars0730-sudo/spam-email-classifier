@@ -1,32 +1,22 @@
-# Stock Price Predictor
+# Spam Email Classifier
 
-## Project Description
-This project predicts stock prices using Machine Learning with Python.
-
-## Features
-- Download stock data using yfinance
-- Train a Linear Regression model
-- Predict stock prices
-- Display actual vs predicted prices using Matplotlib
+## Description
+This project is a Spam Email Classifier built using Python and Machine Learning.
 
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
-- Matplotlib
-- yfinance
+
+## Dataset
+- spam.csv
 
 ## How to Run
-
-1. Clone the repository
-2. Install dependencies
-
-pip install pandas numpy matplotlib scikit-learn yfinance
-
-3. Run the project
-
-python main.py
+1. Install Python
+2. Install required libraries:
+   pip install pandas scikit-learn
+3. Run:
+   python main.py
 
 ## Author
-Santhosh Kumar
+Santhoshkumar s
