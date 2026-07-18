@@ -1,7 +1,8 @@
 # Spam Email Classifier
 
 ## Description
-This project is a Spam Email Classifier built using Python and Machine Learning.
+
+This project is an Artificial Intelligence (AI) based Spam Email Classifier developed using Python and Machine Learning to classify emails as Spam or Not Spam.
 
 ## Technologies Used
 - Python
